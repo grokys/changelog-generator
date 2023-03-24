@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "changelog-generator": {
+      "commandName": "Project",
+      "commandLineArgs": "--from 0.10.18 --to 0.10.19 --auth-token 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"
+    }
+  }
+}
